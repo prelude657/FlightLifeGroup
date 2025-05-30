@@ -2,7 +2,7 @@
 
 This is the live Flight life Group  website made with WIX
 
-🌐 [Live Website](www.FlightLifeGroup.com)
+🌐 www.FlightLifeGroup.com
 
 ## Overview
 - Built with Wix Editor
